@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'BebasNeue';
+    src: url('../fonts/Young.ttf');
+}
+@font-face {
+    font-family: 'Roblox';
+    src: url('../fonts/Roblox.ttf');
+}
+
+body {
+    font-family: 'BebasNeue';
+    background-color: rgb(25, 27, 33);
+    color: rgb(216, 238, 255);
+    padding: 0;
+    margin: 0;
+}
+div {
+    background-color: rgba(255, 255, 255, 0.021);
+    margin: 5;
+}
+
+#robloxfont {
+    font-family: 'Roblox';
+    color: rgb(255, 255, 255);
+    font-size: large;
+}
+
+#header {
+    text-align: center;
+}
+
+#project {
+    padding: 0.03px;
+}
+#project img {
+    width: 23.5%;
+    height: 30%;
+    margin: 3px;
+}
+
+iframe {
+    border-style: none;
+}
+
+#contacts {
+    padding: 5px;
+}
+
+#ending {
+    padding: 20px;
+    text-align: center;
+    font-style: italic;
+}
